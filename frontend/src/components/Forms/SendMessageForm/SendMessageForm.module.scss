@@ -1,0 +1,17 @@
+.wrapper {
+  position: relative;
+  height: 98px;
+}
+
+.textarea {
+  border-radius: 0;
+}
+
+.button {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
